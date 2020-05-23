@@ -13,6 +13,7 @@ BISTU 编译原理课程的两次实验代码。
 ### 程序实现
 
 操作步骤：
+https://github.com/finlu/bistu_compile_principle/blob/master/images/2020-05-23_173921.png
 
 1. 在调用 `tk()` 方法，即可完成界面的初始化启动。程序启动后界面如下：
 
@@ -39,3 +40,5 @@ BISTU 编译原理课程的两次实验代码。
 程序的具体实现代码在 `parser/parser_c.py` 中。在实现语法分析的时候，调用了词法分析器来完成相应的功能（主要是获取分词）。
 
 > 默认是使用 testfile.txt 进行测试，更多的测试代码放在 `testfiles` 文件夹下面。
+
+注意 ⚠️：如果 github 上看不到图片信息，轻根据 md 文件中的路径在仓库中自行查找！！！
